@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Coffee Brunch</title>
+    <link rel="icon" href="https://s-media-cache-ak0.pinimg.com/originals/c9/45/38/c94538cc98a7ae0f532a8766142113ae.png">
+    <link rel="stylesheet" href="styleCoffee.css">
+    <script src="scriptCoffee.js"> </script>
+  </head>
+  <body>
+    <br>
+    <img id="pic" height="350" width="auto" src="https://s-media-cache-ak0.pinimg.com/originals/c9/45/38/c94538cc98a7ae0f532a8766142113ae.png">
+    <div id="mission">IN THE NAME OF COFFEE.<br>
+        IN THE NAME OF BRUNCH. <br>
+        IN THE NAME OF CRAFT AND PASSION. <br>
+    </div>
+    <div id="aboutTitle">
+      ABOUT
+    </div>
+    <br>
+    <div id="aboutText">
+      Location: <a id="address" href="https://www.google.com/maps/place/Culture+Espresso/@40.7520936,-73.9879236,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259aa4c38ca75:0x88ca3d6ff537d876!8m2!3d40.7520936!4d-73.9857349">
+        72 W 38th St, New York, NY 10018</a> <br>
+      Hours: 7AM - 7PM <br>
+      Contact: (123)456-7890 <br>
+    </div>
+    <a id="gotoMenu" href="./menu.html">GO TO MENU</a>
+    <br>
+  </body>
+</html>
